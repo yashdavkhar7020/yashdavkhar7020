@@ -41,6 +41,7 @@
 💻 Development Tech Stack
 <p align="center"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /> </p>
 ---
+---
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -51,10 +52,15 @@
 
 ---
 
-### 🏆 Achievements
-- **Hackathon Winner**: Innovated solutions in Data Science challenges.
-- **Open Source Contributor**: Actively contributing to impactful projects.
-- **ML Enthusiast**: Developed scalable and efficient models for real-world use.
+### 🏆 Achievements  
+   1. SALESFORCE CERTIFIED AI ASSOCIATE.
+   2. (TATA GROUP) DATA VISUALIZATION CERTIFICATE.
+   3. IIT BOMBAY EUREKA 2024 SEMIFINALIST (TEAM LEADER).
+   4. SMART IDEATHON 2024 (Top 100)– (TEAM LEADER).
+   5. IEEE CODEATHON 2024 FINALIST (5TH RANK) (TEAM LEADER).
+ 
+- **Open Source Contributor**: Carbon Sense Ai.
+
 
 ---
 
