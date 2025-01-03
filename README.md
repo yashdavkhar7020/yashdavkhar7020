@@ -6,18 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdavkhar7020&label=Profile%20Views&color=0E75B6&style=flat-square" alt="Profile Views" /> </p>
 
-<p align="left">
-  <a href="https://twitter.com/yashdavkhar10" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/yashdavkhar10?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-  <a href="https://linkedin.com/in/yash-davkhar" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  <a href="https://www.leetcode.com/yashdavkhar" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -31,7 +19,7 @@
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Get in Touch
 <p align="left">
   <a href="https://twitter.com/yashdavkhar10" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
