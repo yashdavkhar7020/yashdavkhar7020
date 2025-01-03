@@ -1,3 +1,4 @@
+[![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)](https://github.com/yashdavkhar7020)
 <h1 align="center">Hi 👋, I'm Yash Davkhar</h1>
 <h3 align="center">A Passionate Professional in Data Science, Analysis, and Development</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
@@ -6,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashdavkhar10" target="blank"><img src="https://img.shields.io/twitter/follow/yashdavkhar10?logo=twitter&style=for-the-badge" alt="yashdavkhar10" /></a> </p>
 
-- 🔭 I’m currently working on **Career Path Recommendation System..**
+- 🔭 I’m currently working on **Career Path Recommendation System**
 
 - 🌱 I’m currently learning **Machine Learning**
 
