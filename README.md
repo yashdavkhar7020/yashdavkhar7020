@@ -22,15 +22,16 @@
 ### 🔗 Get in Touch
 <p align="left">
   <a href="https://twitter.com/yashdavkhar10" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/skill-icons/icons/twitter.svg" alt="Twitter" width="30" height="30" />
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" width="30" height="30" />
   </a>
   <a href="https://linkedin.com/in/yash-davkhar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/skill-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="30" height="30" />
   </a>
   <a href="https://www.leetcode.com/yashdavkhar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/skill-icons/icons/leetcode.svg" alt="LeetCode" width="30" height="30" />
+    <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" alt="LeetCode" width="30" height="30" />
   </a>
 </p>
+
 
 
 
