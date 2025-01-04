@@ -35,7 +35,7 @@
 ---
 
 🧠 Data Science & Analysis Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,matplotlib,seaborn,scikit-learn,tensorflow,keras,powerbi&theme=dark" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow&theme=dark" /> <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-%23E24A33.svg?style=for-the-badge&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-%23FF6347.svg?style=for-the-badge&logo=seaborn&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white" /> </div>
 💻 Development Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,mongodb,bootstrap,aws&theme=dark" /> </div>
 
