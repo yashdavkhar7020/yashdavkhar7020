@@ -35,30 +35,9 @@
 ---
 
 🧠 Data Science & Analysis Tech Stack
-<p align="center">
-  <i class="devicon-python-plain-wordmark colored"></i> Python
-  <i class="devicon-mysql-plain-wordmark colored"></i> SQL
-  <i class="devicon-pandas-original-wordmark colored"></i> Pandas
-  <i class="devicon-numpy-original-wordmark colored"></i> NumPy
-  <i class="devicon-tensorflow-original colored"></i> TensorFlow
-  <i class="devicon-keras-original colored"></i> Keras
-  <i class="devicon-powerbi-plain-wordmark colored"></i> Power BI
-</p>
-
----
-
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,matplotlib,seaborn,scikit-learn,tensorflow,keras,powerbi&theme=dark" /> </div>
 💻 Development Tech Stack
-<p align="center">
-  <i class="devicon-javascript-plain colored"></i> JavaScript
-  <i class="devicon-html5-plain-wordmark colored"></i> HTML
-  <i class="devicon-css3-plain-wordmark colored"></i> CSS
-  <i class="devicon-react-original-wordmark colored"></i> React
-  <i class="devicon-nodejs-plain-wordmark colored"></i> Node.js
-  <i class="devicon-express-original-wordmark colored"></i> Express
-  <i class="devicon-mongodb-plain-wordmark colored"></i> MongoDB
-  <i class="devicon-bootstrap-plain-wordmark colored"></i> Bootstrap
-  <i class="devicon-amazonwebservices-original-wordmark colored"></i> AWS
-</p>
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,mongodb,bootstrap,aws&theme=dark" /> </div>
 
 ---
 
