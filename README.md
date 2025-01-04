@@ -22,13 +22,13 @@
 ### 🔗 Get in Touch
 <p align="left">
   <a href="https://twitter.com/yashdavkhar10" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg" alt="Twitter" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/skill-icons/icons/twitter.svg" alt="Twitter" width="30" height="30" />
   </a>
   <a href="https://linkedin.com/in/yash-davkhar" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/skill-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
   </a>
   <a href="https://www.leetcode.com/yashdavkhar" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/skill-icons/icons/leetcode.svg" alt="LeetCode" width="30" height="30" />
   </a>
 </p>
 
