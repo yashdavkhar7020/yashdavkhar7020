@@ -28,7 +28,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="30" height="30" />
   </a>
   <a href="https://www.leetcode.com/yashdavkhar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" alt="LeetCode" width="30" height="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30" />
   </a>
 </p>
 
