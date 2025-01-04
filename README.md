@@ -32,23 +32,10 @@
 ---
 
 ### 🛠️ My Toolbox  
-#### **Data Science & Analysis**  
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-%23276D99.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-
-#### **Web Development**  
-<p align="center"> 
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+🧠 Data Science & Analysis Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,scikit-learn,tensorflow,keras,tableau,powerbi&theme=dark" /> </div>
+💻 Development Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,mongodb,bootstrap,aws&theme=dark" /> </div>
 
 #### **Others**  
 <p align="center"> 
