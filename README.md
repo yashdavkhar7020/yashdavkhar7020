@@ -33,18 +33,30 @@
 
 ### 🛠️ My Toolbox  
 🧠 Data Science & Analysis Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,scikit-learn,tensorflow,keras,tableau,powerbi&theme=dark" /> </div>
-💻 Development Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,mongodb,bootstrap,aws&theme=dark" /> </div>
-
-#### **Others**  
-<p align="center"> 
-  <img src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<p align="center">
+  <i class="devicon-python-plain-wordmark colored"></i> Python
+  <i class="devicon-mysql-plain-wordmark colored"></i> SQL
+  <i class="devicon-pandas-original-wordmark colored"></i> Pandas
+  <i class="devicon-numpy-original-wordmark colored"></i> NumPy
+  <i class="devicon-tensorflow-original colored"></i> TensorFlow
+  <i class="devicon-keras-original colored"></i> Keras
+  <i class="devicon-powerbi-plain-wordmark colored"></i> Power BI
 </p>
 
 ---
+
+💻 Development Tech Stack
+<p align="center">
+  <i class="devicon-javascript-plain colored"></i> JavaScript
+  <i class="devicon-html5-plain-wordmark colored"></i> HTML
+  <i class="devicon-css3-plain-wordmark colored"></i> CSS
+  <i class="devicon-react-original-wordmark colored"></i> React
+  <i class="devicon-nodejs-plain-wordmark colored"></i> Node.js
+  <i class="devicon-express-original-wordmark colored"></i> Express
+  <i class="devicon-mongodb-plain-wordmark colored"></i> MongoDB
+  <i class="devicon-bootstrap-plain-wordmark colored"></i> Bootstrap
+  <i class="devicon-amazonwebservices-original-wordmark colored"></i> AWS
+</p>
 
 ### 📈 GitHub Stats  
 <p align="center">
