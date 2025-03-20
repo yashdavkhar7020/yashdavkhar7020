@@ -13,7 +13,7 @@
 - 🌱 **Learning**: Machine Learning and Advanced AI Techniques  
 - 💻 **Collaborating**: Hackathons, Challenges, and Open Source Projects  
 - 🤝 **Looking for Opportunities**: Remote work, Internships, or Freelancing gigs  
-- 🧠 **Ask Me About**: Data Analysis, Web Development, and Tech Trends  
+- 🧠 **Ask Me About**: DATA SCIENCE AND ANALYSIS , ML , CLOUD , DOCKER , DEPLOYMENT   
 - 📬 **Reach Me**: yashdavkhar10@gmail.com  
 - 🎯 **Fun Fact**: I can whip up amazing Python and SQL solutions faster than most scripts run!  
 
