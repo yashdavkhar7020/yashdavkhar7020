@@ -9,13 +9,13 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently Building**: A Career Path Recommendation System  
-- 🌱 **Learning**: Machine Learning and Advanced AI Techniques  
+- 🔭 **Currently Building**: ANALYITCS APP (WHICH SHOWS CUSTOMERS THERE PERTICULARS THROUGH VISUALIZATION) 
+- 🌱 **Learning**: Machine Learning and Big Data Tools  
 - 💻 **Collaborating**: Hackathons, Challenges, and Open Source Projects  
 - 🤝 **Looking for Opportunities**: Remote work, Internships, or Freelancing gigs  
 - 🧠 **Ask Me About**: DATA SCIENCE AND ANALYSIS , ML , CLOUD , DOCKER , DEPLOYMENT   
 - 📬 **Reach Me**: yashdavkhar10@gmail.com  
-- 🎯 **Fun Fact**: I can whip up amazing Python and SQL solutions faster than most scripts run!  
+ 
 
 ---
 
