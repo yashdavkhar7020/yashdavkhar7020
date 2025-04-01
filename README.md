@@ -84,13 +84,19 @@
 ---
 
 ### 🏆 Achievements  
- 1 FOUNDER AND LEADER(TEAM INDIES- we solve social and non social issues with the help of technology) 
- 2 SWAYAMBHU E-GOVERNMENT CHALLENGE (3RD RANK)(TEAM LEADER). March 2025
- 3 GOOGLE SOLUTIONS CHALLENGE (UNIVERSITY RANK 1)(TEAM LEADER). January 2025
- 4 IIT BOMBAY EUREKA 2024 FINALIST (TEAM LEADER). January 2025
- 5 SALESFORCE CERTIFIED AI ASSOCIATE. November 2024
- 6 SMART IDEATHON 2024 (Top 100)(TEAM LEADER). November 2024
- 7 IEEE CODEATHON 2024 FINALIST (5TH RANK) (TEAM LEADER). April 2025  
+ Founder and Leader (Team Indies – We solve social and non-social issues with the help of technology)
+
+Swayambhu E-Government Challenge – 3rd Rank (Team Leader), March 2025
+
+Google Solutions Challenge – University Rank 1 (Team Leader), January 2025
+
+IIT Bombay Eureka 2024 Finalist (Team Leader), January 2025
+
+Salesforce Certified AI Associate, November 2024
+
+Smart Ideathon 2024 – Top 100 (Team Leader), November 2024
+
+IEEE Codeathon 2024 Finalist – 5th Rank (Team Leader), April 2025
  
 
 ---
