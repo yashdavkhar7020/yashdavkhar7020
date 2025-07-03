@@ -70,7 +70,7 @@
 ---
 
 💻 Development Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,nest,vue,native,jwt,react,nodejs,express,mysql,mongodb,bootstrap,aws&theme=dark" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,nest,vue,tailwindcss,react,nodejs,express,mysql,mongodb,bootstrap,aws&theme=dark" /> </div>
 
 ---
 
