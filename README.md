@@ -13,7 +13,7 @@
 - 🌱 **Learning**: Machine Learning and Big Data Tools  
 - 💻 **Collaborating**: Hackathons, Challenges, and Open Source Projects  
 - 🤝 **Looking for Opportunities**: Remote work, Internships, or Freelancing gigs  
-- 🧠 **Ask Me About**: DATA SCIENCE AND ANALYSIS , ML , CLOUD , DOCKER , DEPLOYMENT   
+- 🧠 **Ask Me About**: DATA SCIENCE AND ANALYSIS , WEB AND APP DEV, ML , CLOUD , DOCKER , DEPLOYMENT   
 - 📬 **Reach Me**: yashdavkhar10@gmail.com  
  
 
@@ -70,7 +70,7 @@
 ---
 
 💻 Development Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,mongodb,bootstrap,aws&theme=dark" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,nest,vue,reactnative,react,nodejs,express,mysql,mongodb,bootstrap,aws&theme=dark" /> </div>
 
 ---
 
@@ -83,8 +83,10 @@
 
 ---
 
-### 🏆 Achievements  
- Founder and Leader (Team Indies – We solve social and non-social issues with the help of technology)
+### 🏆 Achievements
+CAMPUS AMBASSADOR AT E-CELL IIT BOMBAY- June 2025
+
+Founder and Leader (Team Indies – We solve social and non-social issues with the help of technology)
 
 Swayambhu E-Government Challenge – 3rd Rank (Team Leader), March 2025
 
