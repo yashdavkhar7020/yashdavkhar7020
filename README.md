@@ -8,12 +8,10 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 **Currently Building**: ANALYITCS APP (WHICH SHOWS CUSTOMERS THERE PERTICULARS THROUGH VISUALIZATION) 
-- 🌱 **Learning**: Machine Learning and Big Data Tools  
+### 🚀 About Me  
 - 💻 **Collaborating**: Hackathons, Challenges, and Open Source Projects  
 - 🤝 **Looking for Opportunities**: Remote work, Internships, or Freelancing gigs  
-- 🧠 **Ask Me About**: DATA SCIENCE AND ANALYSIS , WEB AND APP DEV, ML , CLOUD , DOCKER , DEPLOYMENT   
+- 🧠 **Ask Me About**: DATA SCIENCE AND ANALYSIS, WEB AND APP DEV, ML, CLOUD, DOCKER, DEPLOYMENT   
 - 📬 **Reach Me**: yashdavkhar10@gmail.com  
  
 
