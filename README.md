@@ -1,4 +1,3 @@
-[![Header](https://cdnb.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)](https://github.com/yashdavkhar7020)
 <h1 align="center">Hey there! 👋 I'm <span style="color: #FF5733;">Yash Davkhar</span></h1>
 <h3 align="center" style="color: #2980B9;">Crafting Solutions in Data Science, Development, and Innovation</h3>
 
