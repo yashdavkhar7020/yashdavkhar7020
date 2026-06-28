@@ -67,13 +67,6 @@
 
 ---
 
-💻 Development Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,nest,vue,tailwindcss,react,nodejs,express,mysql,mongodb,bootstrap,aws&theme=dark" /> </div>
-
----
-
----
-
 ### 🏆 Achievements
 CAMPUS AMBASSADOR AT E-CELL IIT BOMBAY- June 2025
 
